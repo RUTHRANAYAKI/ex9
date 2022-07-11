@@ -1,3 +1,6 @@
 [submodule "ex9"]
 	path = ex9
 	url = https://github.com/RUTHRANAYAKI/ex9.git
+[submodule "oslab"]
+	path = oslab
+	url = https://github.com/RUTHRANAYAKI/oslab.git
